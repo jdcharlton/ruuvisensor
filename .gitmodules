@@ -1,0 +1,15 @@
+[submodule "ruuvi.drivers.c"]
+	path = ruuvi.drivers.c
+	url = https://github.com/ruuvi/ruuvi.drivers.c.git
+[submodule "ruuvi.boards.c"]
+	path = ruuvi.boards.c
+	url = https://github.com/ruuvi/ruuvi.boards.c.git
+[submodule "ruuvi.endpoints.c"]
+	path = ruuvi.endpoints.c
+	url = https://github.com/ruuvi/ruuvi.endpoints.c.git
+[submodule "ruuvi.libraries.c"]
+	path = ruuvi.libraries.c
+	url = https://github.com/ruuvi/ruuvi.libraries.c.git
+[submodule "ruuvi.nrf_sdk15_0_overrides.c"]
+	path = ruuvi.nrf_sdk15_0_overrides.c
+	url = https://github.com/ruuvi/ruuvi.nrf_sdk15_0_overrides.c.git
