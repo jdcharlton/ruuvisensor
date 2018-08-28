@@ -1,4 +1,4 @@
-# ruuvi.firmware.c
+# ruuvisensor
 Ruuvi Firmware version 3. Built on top of Nordic SDK 15, uses both Ruuvi and external repositories as submodules.
 Under development, not recommended for anything.
 
