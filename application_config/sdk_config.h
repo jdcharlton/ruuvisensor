@@ -274,7 +274,7 @@
 #define NRF_LOG_DEFERRED 1
 #endif
 
-// <o> NRF_LOG_BUFSIZE  - Size of the buffer for storing logs (in bytes).
+// <o> NRF_LOG_BUFSIZE   - Size of the buffer for storing logs (in bytes).
  
 
 // <i> Must be power of 2 and multiple of 4.
